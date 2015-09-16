@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:55:07.641991
-#+TITLE: 太上六壬明鑑陰符經
-#+PROPERTY: DZID  DZ0861
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，18—621 四卷 洞神部方法類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
